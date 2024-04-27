@@ -1,0 +1,2 @@
+# SpotifyPLDownloader
+Downloads Spotify Playlists
